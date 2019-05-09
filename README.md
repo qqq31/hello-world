@@ -1,33 +1,5 @@
-# Java
-
-##### [中文](README_ZH.md)
-
-## Project Descriptions
-
-Below here are some of my java project exercise codes, I would like to share it with everyone, hope that we are able to improve with everyone!
-
-## Java Projects
-
-* [swagger2-boot-starter](https://github.com/HelloWorld521/swagger2-boot-starter)
-
-* [SpringBoot-Shiro](./springboot-shiro/)
-
-* [SECKILL](./seckill/)
-
-* [Woss2.0 ](./woss/)
-
-* [tomcatServlet3.0 Web Server](./tomcatServer3.0/)
-
-* [ServletAjax ](./ServletAjax/)
-
-* [JspChat jsp Chatroom](./JspChat/)
-
-* [eStore library system](./estore/)
-
-* [checkcode Java captcha code generator](./checkcode/)
-
-* [IMOOCSpider easy internet spider](./IMOOCSpider/)
-
-## Last
-
-If any of the projects above is able to help you out, please do click on "Star" on top right-hand-site. Thank you!
+## Java
+ * 27天成为Java大神
+ 
+## Disclaimer
+  版权归原作者所有，欢迎自由转载-非商用-非衍生-保持署名和链接。
